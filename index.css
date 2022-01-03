@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(./kk.jpg);
+    
+    
+}
+
+form{
+    
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    color: white;
+    font-size: 16px;
+    font-family: Helvetica;
+    
+    
+}
+
+div {
+    height: 800px;
+    width: 300px;
+    background-color: rgba(17, 184, 184, 0.5);
+    margin: 100px auto 0px auto;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    border: 2px solid black;
+    
+}    
+h1{
+    padding-left: 10px;
+    text-align: center;
+}
